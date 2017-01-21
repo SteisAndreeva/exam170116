@@ -1,0 +1,6 @@
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\CakeTycoon\bin\Debug\CakeTycoon.exe.config
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\CakeTycoon\bin\Debug\CakeTycoon.exe
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\CakeTycoon\bin\Debug\CakeTycoon.pdb
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\CakeTycoon\obj\Debug\CakeTycoon.csprojResolveAssemblyReference.cache
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\CakeTycoon\obj\Debug\CakeTycoon.exe
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\CakeTycoon\obj\Debug\CakeTycoon.pdb

@@ -1,0 +1,6 @@
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\IlluminatiLock\bin\Debug\IlluminatiLock.exe.config
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\IlluminatiLock\bin\Debug\IlluminatiLock.exe
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\IlluminatiLock\bin\Debug\IlluminatiLock.pdb
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\IlluminatiLock\obj\Debug\IlluminatiLock.csprojResolveAssemblyReference.cache
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\IlluminatiLock\obj\Debug\IlluminatiLock.exe
+c:\users\stela\documents\visual studio 2015\Projects\Exam17012016\IlluminatiLock\obj\Debug\IlluminatiLock.pdb
